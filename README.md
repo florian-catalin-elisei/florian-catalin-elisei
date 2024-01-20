@@ -7,6 +7,8 @@
 
 - 🌱 I’m currently learning **Courses**
 
+- 👨‍💻 All of my projects are available at [https://efc-gatsby-portfolio.netlify.app/](https://efc-gatsby-portfolio.netlify.app/)
+
 - 💬 Ask me about **HTML, CSS and JavaScript**
 
 - 📫 How to reach me **catalinelisei2002@gmail.com**
