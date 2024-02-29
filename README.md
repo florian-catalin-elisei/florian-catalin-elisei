@@ -1,4 +1,4 @@
-<img src="https://www.asmiglobalsoftwares.com/assets/img/Web-development.jpg" alt="Web Development Banner" />
+<img src="https://images.unsplash.com/photo-1503252947848-7338d3f92f31?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8Y29kaW5nfGVufDB8MHwwfHx8MA%3D%3D" alt="Web Development Banner" width="100%" height="400" />
 <h1 align="center">Hi 👋, I'm Elisei Florian-Cătălin</h1>
 <h3 align="center">Computer science student aspiring to be a web developer.</h3>
 <img src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" alt="Web Developer" align="right" width="400" />
